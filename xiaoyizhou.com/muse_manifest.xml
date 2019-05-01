@@ -1,0 +1,100 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xiaoyizhou.com" resolutions="1x" timestamp="1556700495571">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="339066514" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u1375.php" crc="3846083242" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="302034883" ref="index"/>
+    <file name="laoren.png" crc="4215386228" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u151.png" crc="4204285021" ref="index"/>
+    <file name="u151-r.png" crc="4204285021" ref="index"/>
+    <file name="u151-m.png" crc="4204285021" ref="index"/>
+    <file name="u841_states.png" crc="4204285021" ref="index"/>
+    <file name="u841_states-r.png" crc="265892833" ref="index"/>
+    <file name="u841_states-m.png" crc="339903341" ref="index"/>
+    <file name="u154_states.png" crc="361909692" ref="index"/>
+    <file name="u154_states-r.png" crc="4268174926" ref="index"/>
+    <file name="u154_states-m.png" crc="486136584" ref="index"/>
+    <file name="u157_states.png" crc="3847908801" ref="index"/>
+    <file name="u157_states-r.png" crc="4195111519" ref="index"/>
+    <file name="u157_states-m.png" crc="93185621" ref="index"/>
+    <file name="u160_states.png" crc="3883632625" ref="index"/>
+    <file name="u160_states-r.png" crc="158284124" ref="index"/>
+    <file name="u160_states-m.png" crc="534714303" ref="index"/>
+    <file name="u163_states.png" crc="4011582248" ref="index"/>
+    <file name="u163_states-r.png" crc="3914508745" ref="index"/>
+    <file name="u163_states-m.png" crc="4278036964" ref="index"/>
+    <file name="u1194_states.png" crc="3785501598" ref="index"/>
+    <file name="u1194_states-r.png" crc="436848763" ref="index"/>
+    <file name="u1194_states-m.png" crc="4218577213" ref="index"/>
+    <file name="u324.png" crc="3960984728" ref="index"/>
+    <file name="u324-m.png" crc="3960984728" ref="index"/>
+    <file name="27.jpg" crc="3780808918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19.jpg" crc="3946305770" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="31.jpg" crc="4145591505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33.jpg" crc="4283876198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32.jpg" crc="4251532432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="37.png" crc="498690341" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.png" crc="368073493" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="標題.png" crc="4150252702" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u303-4.png" crc="343878696" ref="index"/>
+    <file name="小花.png" crc="4106410880" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11-u346-fr.png" crc="3971132567" ref="index"/>
+    <file name="999.png" crc="9682143" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22.png" crc="339526879" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10.png" crc="3936994032" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.png" crc="3776983712" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33333.jpg" crc="4286781034" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="64191669" seo="true" mt="1556700433910" redirect="true"/>
+</manifest>
